@@ -1,0 +1,12 @@
+Good day,
+Please import my database,
+
+/////////////////////
+Database name: shares.sql
+Db_username: root
+password: norsuadmin18
+
+
+please locate task4 and task3 folder and go to includes folder and find DbConfig.php file to remove the password of mysql or change into your password.
+
+Thank You!
